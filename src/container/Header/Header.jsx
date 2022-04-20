@@ -9,10 +9,6 @@ const Header = () => (
       <p className="typing__letter  p__opensans" style={{ margin: '2rem 0' }}>play and earn rewards!</p>
       <button type="button" className="animate__btn">
         <a href="#login">
-          <span />
-          <span />
-          <span />
-          <span />
           Register Now!
         </a>
       </button>

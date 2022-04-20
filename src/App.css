@@ -102,17 +102,6 @@
               0 0 100px #aeb90c;
 }
 
-.animate__btn a:click {
-  background: #50a11a;
-  color: rgb(20, 8, 8);
-  border-radius: 5px;
-  box-shadow: 0 0 5px #aeb90c,
-              0 0 25px #aeb90c,
-              0 0 50px #aeb90c,
-              0 0 100px #aeb90c;
-}
-
-
 .p__cormorant {
   font-family: var(--font-base);
   color: var(--color-white);
@@ -143,9 +132,6 @@
   text-transform: capitalize;
 }
 
-.spoon__img {
-  width: 45px;
-}
 
 @media screen and (min-width: 2000px) {
   .custom__button,
@@ -201,6 +187,7 @@
 
   .p__opensans {
     font-size: 14px;
+    border-bottom: none;
   }
 }
 

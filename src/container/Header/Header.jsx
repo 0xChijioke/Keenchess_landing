@@ -7,7 +7,7 @@ const Header = () => (
     <div className="app__wrapper_info">
       <h1 className="app__header-h1">chess for an improved life</h1>
       <p className="typing__letter  p__opensans" style={{ margin: '2rem 0' }}>play and earn rewards!</p>
-      <button type="button" onClick={{ className: 'animate__btn a:click' }} className="animate__btn">
+      <button type="button" className="animate__btn">
         <a href="#login">
           <span />
           <span />
